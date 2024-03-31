@@ -64,3 +64,8 @@ Explore advanced system hardening methods and utilize this externship and your b
 Apply your cumulative knowledge and compete against other teams in a thrilling Capture the Flag competition! Secure maximum points for your team.
 
 
+<h2>Resources</h2>
+
+<a href="https://docs.google.com/document/d/1jSSsxIG1jLTLHm6DlXJzg9xOdQtT_461Rkj1co5gVEA/edit?usp=sharing" > Cyber Discovery Assessment </a>
+
+
